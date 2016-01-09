@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 Another branch called dev.
+There will be a bug in 1 minutes.
